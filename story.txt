@@ -1,0 +1,25 @@
+1 | It is the year 2077 and our world is on the brink of demolition due to tensions rising between the human race and sentient robots called Metronix. | -1 | 2
+2 | Metronix were originally designed to assist humanity but eventually gained self-awareness. | -1 | 3
+3 | This awakening, known as the Metronix Crisis, led to chaos. Two factions emerged: “The Metronix Vanguard” and “The Legion”. | -1 | 4
+4 | You are Aris, an elite operative of the Vanguard, half-Metronix and half-human due to an experiment that was conducted by a geneticist who works under The Metronix Vanguard. This causes you to be inserted into the brewing conflict of Metronix vs. humans. | -1 | 5
+5 | Aris stands amidst the chaos of New London as The Legion attacks. L) Rally with Vanguard allies R) Search for survivors | 6 | 7
+
+# Start of interactive game choices
+6 | You rally with Vanguard members, including Ravata, who suggests a covert mission against The Legion. L) Accept the mission R) Stay and defend | 8 | 9
+7 | Searching for survivors, you find a hidden group of humans and Metronix who mistrust both factions. L) Help them R) Move on to find others | 10 | 11
+
+8 | Aris and Ravata embark on a mission to infiltrate a Legion stronghold. They discover Legion forces guarding Metronix prisoners. L) Rescue the prisoners R) Gather intelligence | 12 | 13
+9 | You stay and defend New London, fighting off Legion forces. Amid the battle, you encounter Kael, a former Vanguard operative now with The Legion. L) Confront Kael R) Fall back | 14 | 15
+
+10 | You assist the hidden survivors, gaining their trust. They share valuable information about Legion plans. L) Bring information back to The Vanguard R) Act independently | 16 | 17
+11 | You move on to find other survivors, but a Legion patrol spots you. L) Fight R) Flee | 18 | 19
+
+12 | You and Ravata free the prisoners, inspiring them to join the Vanguard. This successful mission boosts morale. | -1 | -1
+13 | You gather intelligence on The Legion's operations and bring valuable information back to the Vanguard. | -1 | -1
+14 | You confront Kael, who questions your loyalty. After a tense standoff, he retreats, leaving you shaken but resolute. | -1 | -1
+15 | You fall back and regroup with Vanguard forces, preparing for a larger counterattack. | -1 | -1
+
+16 | Acting on the new information, the Vanguard launches a counterstrike on the Legion's headquarters. You are hailed as a hero. | -1 | -1
+17 | Going rogue, you approach a neutral faction of Metronix who offer to ally if you help defend their enclave. You agree, and together you fend off a Legion raid. | -1 | -1
+18 | You bravely fight off the Legion patrol, but the odds overwhelm you. Your sacrifice is remembered as an act of defiance. | -1 | -1
+19 | You flee and manage to escape, eventually finding your way back to the Vanguard with valuable information. | -1 | -1
